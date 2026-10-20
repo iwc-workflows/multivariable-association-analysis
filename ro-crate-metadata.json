@@ -21,7 +21,7 @@
         {
             "@id": "./",
             "@type": "Dataset",
-            "datePublished": "2026-10-18T13:45:02.030978",
+            "datePublished": "2026-10-20T18:16:21.702069",
             "hasPart": [
                 {
                     "@id": "Multivariable_Association_Analysis_of_Amplicon_Data.ga"
@@ -70,7 +70,7 @@
                     "@id": "https://orcid.org/0000-0003-2982-388X"
                 },
                 {
-                    "@id": "#931f4f1c-0a57-4b41-9429-aa102f39c6a7"
+                    "@id": "#982a4871-1ade-4df8-856e-c66e55d8a098"
                 }
             ],
             "name": "multivariable-association-analysis/main",
@@ -78,7 +78,7 @@
                 "@id": "#galaxy"
             },
             "url": "https://github.com/iwc-workflows/multivariable-association-analysis",
-            "version": "0.1"
+            "version": "0.2"
         },
         {
             "@id": "#galaxy",
@@ -103,7 +103,7 @@
             "name": "Paul Zierep"
         },
         {
-            "@id": "#931f4f1c-0a57-4b41-9429-aa102f39c6a7",
+            "@id": "#982a4871-1ade-4df8-856e-c66e55d8a098",
             "@type": "Person",
             "name": "Mara Besemer"
         },
